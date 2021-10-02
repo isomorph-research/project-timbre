@@ -39,6 +39,38 @@ PlaylistsInfo
 | 2          | asdflkjasdf | Jan 1, 1970  | UserId |
 | 3          | asdflkjasdf | Jan 1, 1970  | UserId |
 
+```json
+{
+  "0000": {
+    "OauthToken": "iamatoken!!",
+    "SpotifyToken": "spotifyToken!",
+    "TwitterToken": "twitterToken",
+    "TweetFrequency": "Weekly",
+    "LastTweetDate": "1970-01-01",
+    "Playlists": [
+      {
+        "Uri": "https://google.com",
+        "CreationDate": "1970-01-01"
+      }
+    ]
+  },
+    "0002": {
+    "OauthToken": "iamatoken!!",
+    "SpotifyToken": "spotifyToken!",
+    "TwitterToken": "twitterToken",
+    "TweetFrequency": "Weekly",
+    "LastTweetDate": "1970-01-01",
+    "Playlists": [
+      {
+        "Uri": "https://google.com",
+        "CreationDate": "1970-01-01"
+      }
+    ]
+  }
+}
+```
+
+
 ```sql
 WITH (SELECT * FROM UserInfo WHERE UserId = given_id) AS UserData -- RTE (subquery)
 
