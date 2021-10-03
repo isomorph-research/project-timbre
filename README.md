@@ -65,6 +65,8 @@ Firebase will be used to store user data using the following structure:
 - Top new tracks prediction (yes i know spotify already does this)
 
 ### Front - End
+#### Figma Sketches
+See: https://www.figma.com/file/pJqoFVI3t0cZN7Kuhq4zSi/Top-Track-Tweeter?node-id=0%3A1
 
 ReactJS
 
