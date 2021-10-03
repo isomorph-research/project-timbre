@@ -68,6 +68,23 @@ Firebase will be used to store user data using the following structure:
 #### Figma Sketches
 See: https://www.figma.com/file/pJqoFVI3t0cZN7Kuhq4zSi/Top-Track-Tweeter?node-id=0%3A1
 
+Figma mockups can be found inside the `mockups` folder.
+
+#### Landing Page
+![Hero Page](mockups/Hero_Page.png)
+
+#### Landing Page (logged in)
+![Main](mockups/Main.png)
+
+#### Setup
+![Setup 0a](mockups/Setup_0a.png)
+![Setup 0b](mockups/Setup_0b.png)
+![Setup 1](mockups/Setup_1.png)
+![Setup Complete](mockups/Setup_Complete.png)
+
+#### History
+![History](mockups/History.png)
+
 ReactJS
 
 #### Front-End Requirements
